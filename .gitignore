@@ -7,3 +7,6 @@ venv/
 *.sqlite
 *.sqlite3
 *.sqlite3-*
+website
+/website
+website/
